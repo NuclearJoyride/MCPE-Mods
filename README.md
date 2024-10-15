@@ -1,2 +1,2 @@
 # MCPE-Mods
-Free to use
+Project is free to use
